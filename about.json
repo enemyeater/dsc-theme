@@ -1,22 +1,22 @@
 {
-  "name": "Vincent Dark",
-  "about_url": "",
-  "license_url": "",
+  "name": "Vincent",
+  "about_url": "https://meta.discourse.org/t/76662/",
+  "license_url": "https://github.com/hnb-ku/discourse-vincent-theme/blob/master/LICENSE",
    "assets": {
-        "vincent-background": "assets/abstract-purple-wallpaper.png"
+        "vincent-background": "assets/vincent-background.svg"
    },
    "color_schemes": {
        "Vincent Dark": {
           "primary": "cccccc",
-          "secondary": "313131",
-          "tertiary": "7500ff",
+          "secondary": "111111",
+          "tertiary": "009dd8",
           "quaternary": "9E9E9E",
-          "header_background": "3b3e49",
+          "header_background": "131418",
           "header_primary": "cccccc",
           "highlight": "9E9E9E",
           "danger": "96000e",
           "success": "1ca551",
-          "love": "b800f5"
+          "love": "f50057"
         }
     }
 }
