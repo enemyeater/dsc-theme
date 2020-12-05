@@ -1,9 +1,9 @@
 {
-  "name": "EnemyEater",
+  "name": "Vincent Dark",
   "about_url": "",
   "license_url": "",
    "assets": {
-        "vincent-background": "assets/vincent-background.svg"
+        "vincent-background": "assets/abstract-purple-wallpaper.png"
    },
    "color_schemes": {
        "Enemy Eater": {
