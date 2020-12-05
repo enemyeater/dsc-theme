@@ -64,7 +64,7 @@ $v-theme-background: null;
 $v-hue: 0 !default;
 $v-saturation: -25 !default;
 $v-lightness: 0 !default;
-$V-page-max-width: 100vw !default;
+$V-page-max-width: 95vw !default;
 
 // palette colors -------------------------------
 
@@ -910,7 +910,7 @@ section.post-menu-area {
 }
 
 .wrap {
-  width: 85%;
+  width: 75%;
 }
 
 #reply-control .d-editor-preview img:not(.thumbnail):not(.emoji),
